@@ -1,0 +1,20 @@
+-----------------------------------
+        I  nstall frontend
+-----------------------------------
+-Instal node.js
+-install npm
+-composer require laravel/ui --dev
+-php artisan ui bootstrap
+-npm run dev
+-npm install
+    DONE
+<--------------------------------->
+
+
+-------------------------------------------------------------------
+                        Membuat Sweet Alert
+-------------------------------------------------------------------
+Sweet Alert "RealRashid"
+https://github.com/realrashid/sweet-alert  --> Link Github
+https://realrashid.github.io/sweet-alert/  --> Link Documentation
+<----------------------------------------------------------------->
