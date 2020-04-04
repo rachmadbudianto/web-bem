@@ -13,6 +13,8 @@
 coba nih ya
 
 ini coba tes push dari website github dengan akun "rachmadbudianto"
+
+oke rachmad, saya akan push lagi dari catatan
 -------------------------------------------------------------------
                         Membuat Sweet Alert
 -------------------------------------------------------------------
